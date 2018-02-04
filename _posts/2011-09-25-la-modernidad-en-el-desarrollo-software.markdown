@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-1239096147248949874.post-54033822910397084
 blogger_orig_url: http://josemlopez.blogspot.com/2011/09/la-modernidad-en-el-desarrollo-software.html
 ---
 
-El jueves pasado pude asistir al evento [Oracle Enterprise Java Developer Day](http://www.oracle.com/webapps/events/ns/EventsDetail.jsp?p_eventId=135262&src=7307403&src=7307403&Act=10).En general fue bastante interesante, sobre todo las exposiciones que se realizaron en la primera parte, luego las prácticas se hicieron un poco aburridas, quizás influyó que las herramientas presentadas me eran familiares.
+El jueves pasado pude asistir al evento [Oracle Enterprise Java Developer Day](http://www.oracle.com/webapps/events/ns/EventsDetail.jsp?p_eventId=135262&src=7307403&src=7307403&Act=10). En general fue bastante interesante, sobre todo las exposiciones que se realizaron en la primera parte, luego las prácticas se hicieron un poco aburridas, quizás influyó que las herramientas presentadas me eran familiares.
 
 Lo que más llamó mi atención fue el comentario de [Alfredo Casado](http://www.linkedin.com/pub/alfredo-casado/16/156/a15) (javaHispano), en su exposición sobre "Desarrollo Moderno y Ligero con Java EE 6", sobre el significado de la modernidad en el desarrollo de software: no es sólo utilizar las últimas tecnologías, es hacerlo aprendiendo de los errores del pasado.
 
