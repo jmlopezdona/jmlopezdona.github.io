@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "José Manuel López Doña"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a technology enthusiast and I like to create amazing things, and sometimes a write about it."
+  bio              : "I'm a technology enthusiast and I like to create amazing things, and sometimes I write about it."
   location         : "Madrid (Spain)"
   email            : "jmlopezdona@gmail.com"
   uri              : # "https://jmlopezdona.me"
